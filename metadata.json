@@ -1,0 +1,6 @@
+{
+  "name": "SMAN 1 Cileungsi Cinematography",
+  "description": "The official website of SMAN 1 Cileungsi Cinematography Extracurricular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
